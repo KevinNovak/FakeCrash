@@ -1,0 +1,9 @@
+# Configuration file for FakeCrash
+
+# Language
+noConsole: '&cConsole cannot run FakeCrash commands!'
+
+# Whether or not to collect data on plugin usage
+# Viewable at http://mcstats.org/plugin/FakeCrash
+# default: metrics: true
+metrics: true

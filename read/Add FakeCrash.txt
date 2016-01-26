@@ -1,0 +1,4 @@
+Multiple configurable crash messages.
+Keep "crashed" players offline.
+Create lag before a crash.
+Allow certain players to stay online.

@@ -1,0 +1,15 @@
+name: FakeCrash
+version: 0.1.0
+main: me.kevinnovak.fakecrash.FakeCrash
+author: KevinNovak
+description: Fakes a server crash!
+
+commands:
+    crash:
+        usage: /<command>
+        description: Fake crashes the server.
+        
+permissions:
+    fakecrash.crash:
+        description: Fake a server crash.
+        default: op
